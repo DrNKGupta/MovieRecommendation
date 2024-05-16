@@ -36,6 +36,9 @@ To get a local copy of the project up and running, follow these steps:
 ### Prerequisites
 
 You need to have a modern web browser installed.
+### API
+https://api.themoviedb.org/3/movie/
+
 
 ### Installation
 
@@ -45,10 +48,13 @@ You need to have a modern web browser installed.
 2. **Navigate to the project:**
    ```bash
    cd MovieRecommendation
-## Contact
+## Contact:
 For any inquiries or feedback, please contact [nidhishcu](https://github.com/NidhishCU).
 
+
+
 Thank you for visiting the MovieRecommendation web app! Enjoy your movie recommendations!
+
 
 ### Explanation:
 
